@@ -1,7 +1,7 @@
-TypeScript HTML Demo
+TypeScript Fetch Get Demo
 =================================
 
 ```
 npm i
-npm run demo
+npm start
 ```
