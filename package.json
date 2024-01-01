@@ -3,7 +3,7 @@
     "start": "parcel serve src/index.html --open"
   },
   "devDependencies": {
-    "parcel": "2.10.3",
-    "typescript": "5.3.3"
+    "parcel": "latest",
+    "typescript": "latest"
   }
 }
